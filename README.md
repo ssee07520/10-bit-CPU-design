@@ -1,4 +1,4 @@
-# 10-bit CPU Implementation (Verilog, Basys3 FPGA)
+# 10-bit CPU (Verilog, Basys3 FPGA)
 
 ## Introduction
 This project implements a **10-bit CPU** on the **Digilent Basys3** board with an **Artix-7 FPGA**, written entirely in **Verilog**.  
